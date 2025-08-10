@@ -9,11 +9,11 @@
 
 ### 🚀 Passionate Web Developer | Backend Enthusiast | Cloud Explorer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D9FF&width=400&lines=Full+Stack+Developer;Node.js+Expert;NestJS+Specialist;Always+Learning+New+Tech!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D9FF&width=400&lines=Full+Stack+Developer;Node.js+Developer;Learning+NestJS;Aspiring+DevOps+Engineer!" alt="Typing SVG" />
 
 ![](https://img.shields.io/badge/🌍_Location-Vietnam-blue?style=flat-square)
 ![](https://img.shields.io/badge/💼_Role-Full_Stack_Developer-green?style=flat-square)
-![](https://img.shields.io/badge/🎯_Focus-Backend_Development-orange?style=flat-square)
+![](https://img.shields.io/badge/🎯_Goal-DevOps_Engineer-purple?style=flat-square)
 
 <img src="https://komarev.com/ghpvc/?username=Hoanghaaii&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 
@@ -74,11 +74,12 @@ const hoanghai = {
   role: "Full Stack Developer",
   passions: ["Backend Development", "API Design", "Cloud Technologies"],
   currentFocus: "Building scalable web applications",
+  futureGoal: "Becoming a DevOps Engineer 🚀",
   funFact: "I love automating everything! 🤖"
 };
 ```
 
-I'm a passionate Web Developer specializing in **Node.js**, **NestJS**, and **Next.js**. I love working with backend services, automation, and cloud technologies.
+I'm a passionate Web Developer specializing in **Node.js**, **NestJS**, and **Next.js**. I love working with backend services, automation, and cloud technologies. Currently expanding my skills toward **DevOps** and infrastructure automation.
 
 ---
 
