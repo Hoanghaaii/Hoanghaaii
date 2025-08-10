@@ -15,6 +15,8 @@
 ![](https://img.shields.io/badge/💼_Role-Full_Stack_Developer-green?style=flat-square)
 ![](https://img.shields.io/badge/🎯_Focus-Backend_Development-orange?style=flat-square)
 
+<img src="https://komarev.com/ghpvc/?username=Hoanghaaii&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+
 </td>
 </tr>
 </table>
@@ -22,10 +24,15 @@
 ---
 
 ## 📫 Connect with me
+
+<div align="center">
+
 [![Email](https://img.shields.io/badge/Email-haivu04112003@gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:haivu04112003@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-hai.vuhoang.39589-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/hai.vuhoang.39589)
 [![Instagram](https://img.shields.io/badge/Instagram-vhhai.90kg-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/vhhai.90kg/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hải_Hoàng-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h%E1%BA%A3i-ho%C3%A0ng-1b6b67289/)
+
+</div>
 
 ---
 
